@@ -5,8 +5,8 @@
 Clone this repository into your kernel source tree, e.g.
 
 ```console
-$ cd android_kernel_oneplus_sm8150/
-$ git clone https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernel-builder.git
+$ cd nethunter_a21s
+$ git clone https://github.com/BasGame1/nethunter_kernel_a21s.git
 ```
 
 **cd** into `kali-nethunter-kernel/`, open `config` and make sure that you are happy with all the settings.
