@@ -1,3 +1,5 @@
+[PROJECT ITS EOL]
+
 # Kali NetHunter Kernel Builder
 
 ## Installation
